@@ -61,3 +61,60 @@ body{
     padding-top: 4%;
     padding-left: 5%;
 }
+#last-section{
+    margin-top: 5%;
+}
+.lastpart-top{
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin: 2px auto;
+}
+.lastpart-top h1{
+    font-size: 35px;
+}
+.lastpart-top p{
+    font-size: 18px;
+}
+.lastpart-last{
+    display: flex;
+    padding: 0px 60px;
+}
+.card{
+    width: 35%;
+    height: 510px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 1px 1px 40px rgb(199, 194, 194);
+    border-radius: 20px;
+}
+.card h1{
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+.card p{
+    font-size: 20px;
+}
+.card img{
+    margin-top: 6%;
+    height: 250px;
+    width: 300px;
+}
+.lastline{
+    width: 87%;
+    display: flex;
+    margin: 2% 5%;
+    box-shadow: 1px 1px 40px rgb(199, 194, 194);
+    border-radius: 15px;
+    padding: 2% 1%;
+}
+.bottom-card{
+    width: 200px;
+    margin: 1% 8%;
+    text-align: center;
+    
+}
+.bottom-card h1{
+    font-size: 45px;
+    margin: 0;
+}
