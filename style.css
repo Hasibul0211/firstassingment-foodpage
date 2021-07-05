@@ -1,11 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 #header{
     padding-left: 80px;
 }
 
-.header-part{
+.part{
     display: flex;
     
 }
@@ -24,6 +25,9 @@ body{
     font-size: 45px;
     font-weight: bold;
 }
+.half-part p{
+    font-size: 18px;
+}
 .hyper-tag{
     padding: 12px 30px;
     background-image: linear-gradient(orange,red);
@@ -40,6 +44,20 @@ body{
     width: 300px;
     margin-top: 20px;
     border: 2px solid orangered;
-    border-radius: 30px;
+    border-radius: 5px;
     outline: 0;
+}
+#middle{
+    padding-left: 15%;
+    padding-top: 3%;
+    margin-top: 80px;
+    background-image: url(images/cover.png);
+    background-repeat: no-repeat;
+}
+.part-two{
+    display: flex;
+}
+.half-parttwo{
+    padding-top: 4%;
+    padding-left: 5%;
 }
