@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    padding-left: 80px;
+}
+
+.header-part{
+    display: flex;
+    
+}
+.half-part{
+    width: 40%;
+    padding: 2px 5px;
+}
+.heading-color{
+    color: orange;
+}
+.half-partt{
+    padding-top: 12%;
+
+}
+.half-part h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.hyper-tag{
+    padding: 12px 30px;
+    background-image: linear-gradient(orange,red);
+    text-decoration: none;
+    border-radius: 30px;
+    margin-top: 10px;
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    box-shadow: 1px 1px 8px orange;
+}
+#search-box{
+    height: 30px;
+    width: 300px;
+    margin-top: 20px;
+    border: 2px solid orangered;
+    border-radius: 30px;
+    outline: 0;
+}
