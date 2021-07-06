@@ -201,4 +201,6 @@ body{
     font-size: 15px;
 }#footer p{
     color: white;
+    text-align: center;
+    padding-bottom: 3%;
 }
