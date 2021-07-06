@@ -14,6 +14,12 @@ body{
     width: 40%;
     padding: 2px 5px;
 }
+.half-part img{
+  
+    height: 650px;
+    width: 530px;
+    padding-left: 20%;
+}
 .heading-color{
     color: orange;
 }
@@ -60,6 +66,22 @@ body{
 .half-parttwo{
     padding-top: 4%;
     padding-left: 5%;
+}
+.half-part-again{
+    width: 40%;
+    padding: 2px 5px;
+}
+.half-part-again img{
+    height: 500px;
+    width: 300px;
+    padding-left: 10%;
+}
+.half-part-again h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.half-part-again p{
+    font-size: 18px;
 }
 #last-section{
     margin-top: 5%;
