@@ -176,6 +176,8 @@ body{
 }
 #feedback{
     height: 100px;
-    width: 92%;
+    width: 90%;
     resize: none;
+    padding: 10px;
+    outline: 0;
 }
